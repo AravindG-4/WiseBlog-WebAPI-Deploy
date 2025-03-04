@@ -1,4 +1,4 @@
-##WiseBlog-WebAPI-Deployed##
+##WiseBlog-WebAPI-Deployed
 
 Deployed version of WebAPI Backend that powers WiseBlog!
 
