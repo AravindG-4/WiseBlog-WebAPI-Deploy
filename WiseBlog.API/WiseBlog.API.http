@@ -1,0 +1,6 @@
+@WiseBlog.API_HostAddress = http://localhost:5209
+
+GET {{WiseBlog.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
